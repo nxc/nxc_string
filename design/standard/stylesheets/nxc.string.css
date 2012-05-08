@@ -1,0 +1,15 @@
+div.nxc_limitation_container {
+padding: 10px;
+border: 1px solid #CCC;
+margin-bottom: 10px;
+}
+
+div.nxc_limitation_container div.nxc_limitation_controls {
+margin-top: 10px;
+padding: 0px;
+float: right;
+}
+
+div.clear {
+clear: both;
+}

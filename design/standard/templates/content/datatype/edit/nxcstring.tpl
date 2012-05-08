@@ -1,0 +1,1 @@
+<input id="ezcoa-nxc-string-{$attribute.id}" type="text" size="70" name="ezcoa_nxc_string_{$attribute.id}" value="{$attribute.data_text|wash( xhtml )}" />
