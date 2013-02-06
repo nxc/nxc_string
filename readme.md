@@ -9,7 +9,7 @@ Each limitation consist of:
 - description
 - error text
 
-There are 2 groups fo limitations:
+There are 2 limitation groups:
 - matching (string should pass each of this type limitations)
 - not matching (string sholdn`t pass each of this type limitations)
 
